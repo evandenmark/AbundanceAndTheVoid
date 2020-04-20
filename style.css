@@ -1,14 +1,19 @@
-#bottom{
-	width: 80%;
+.sansserif{
+	font-family: Helvetica;
+}
+
+#page-container{
+	width: 100%;
+	text-align: center;
 }
 
 #abundance{
 	float: left;
-	width: 40%;
+	margin-left: 20%;
 }
 
 #void {
-	margin-left: 45%;
-	background: red;
+	float: right;
+	margin-right: 20%;
 }
 
