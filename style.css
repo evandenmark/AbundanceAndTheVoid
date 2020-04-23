@@ -9,11 +9,13 @@
 
 #abundance{
 	float: left;
-	margin-left: 20%;
+	margin-left: 15%;
+	width: 35%;
 }
 
 #void {
 	float: right;
-	margin-right: 20%;
+	margin-right: 15%;
+	width:35%;
 }
 
